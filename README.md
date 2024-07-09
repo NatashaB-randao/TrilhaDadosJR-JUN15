@@ -53,14 +53,18 @@ python scripts/analise_dados.py
 
 ## Análises Realizadas
 
-### Quantidade de Vendas por Curso
+- Quantidade de Vendas por Curso
 
-Análise: O curso "Introdução à Programação em Python" teve o maior número de vendas.
+- Receita Total por Curso
 
-### Receita Total por Curso
+- Relação entre Preço Unitário e Quantidade de Vendas
 
+- Distribuição das Vendas ao Longo do Tempo
 
-Análise: O curso "Cloud Computing com AWS" gerou a maior receita.
+- Distribuição das Vendas ao Longo do Tempo para Cada Curso
+
+- Análise de Correlação
+
 
 ## Contribuições
 
