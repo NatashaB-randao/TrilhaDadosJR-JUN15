@@ -64,7 +64,7 @@ Análise: O curso "Cloud Computing com AWS" gerou a maior receita.
 
 ## Contribuições
 
-Contribuições são bem-vindas! Para maiores detalhes, consulte [CONTRIBUTING.md](CONTRIBUTING.md).
+Contribuições são bem-vindas! 
 
 ## Autores
 
